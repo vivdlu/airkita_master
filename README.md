@@ -11,7 +11,7 @@
 <li>Jenny Garner</li>
 <li>Vivian Lu</li>
 <li>Spencer Ochs</li>
-<li>Katrina Sperry)</li>
+<li>Katrina Sperry</li>
 </ul>
 <strong>Project Summary</strong>
 <p>Airkita is an adorable Akita dog who monitors your home air quality and alerts you with a text when pollution levels are unhealthy!</p>
